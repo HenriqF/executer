@@ -1,0 +1,15 @@
+MATEMÁTICA BÁSICA:
+
+Você receberá uma sequência de 5 inteiros. Para cada inteiro, responda com seu sucessor:
+
+Exemplo:
+Entrada:              Saída esperada:
+1                     2                    
+2                     3
+3                     4
+4                     5
+5                     6
+
+
+Restrições:
+Tempo por caso: 2 segundos.
